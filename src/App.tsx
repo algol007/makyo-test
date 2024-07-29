@@ -1,7 +1,7 @@
 import './App.css'
 import Dropdown from "./components/Dropdown.tsx";
 
-const options: string[] = [
+export const options: string[] = [
     'Option 1',
     'Option with icon',
     'Long long option 3',
